@@ -6,5 +6,7 @@
 		<hr>
 		
 		<a href="${pageContext.request.contextPath}/test/hello">Hello API</a>
+		<br><br>
+		<a href="${pageContext.request.contextPath}/api/students">Students API</a>
 	</body>
 </html>
